@@ -6,11 +6,11 @@ module.exports = {
 	theme: {
 		extend: {
 			 backgroundImage: {
-        'lexus1': 'url(\'/lexus/lexus1.jpg\')',
-        'perryhotel1': 'url(\'/perryhotel/hero.jpg\')',
-        'olasmarinas1': 'url(\'/olasmarina/OlasMarinas.jpg\')',
-        'clearwater1': 'url(\'/clearwater/clearwater1.jpg\')',
-       'shalamar1': 'url(\'/shalamar/shalamar5.jpg\')',
+        'lexus1': 'url(\'/lexus/lexus1.webp\')',
+        'perryhotel1': 'url(\'/perryhotel/hero.webp\')',
+        'olasmarinas1': 'url(\'/olasmarina/OlasMarinas.webp\')',
+        'clearwater1': 'url(\'/clearwater/clearwater1.webp\')',
+       'shalamar1': 'url(\'/shalamar/shalamar5.webp\')',
       },
 		},
 	},

@@ -47,7 +47,10 @@
     "subject":"Subject <br /> <input required placeholder=\"Quote\" type=\"text\" name=\"subject\" class=\"border rounded-[0.5rem] pt-[0.5rem] pb-[0.5rem] pl-[0.75rem] pr-[0.75rem] w-full focus:outline-none focus:shadow-sm focus:transition-border-03s focus:transition-shadow-03s\" /> </label>",
  
     "message":"Messsage <br /> <textarea required  name=\"message\" class=\"border rounded-[0.5rem] pt-[0.5rem] pb-[0.5rem] pl-[0.75rem] pr-[0.75rem] w-full focus:outline-none focus:shadow-sm focus:transition-border-03s focus:transition-shadow-03s\">",
-    "sendbutton":"Send"
+    "sendbutton":"Send",
+    "success":"Your message was sent successfully",
+    "sucessdesc":"We'll be reaching you back soon. Thanks for contacting us!",
+    "backbutton":"Back to Home"
   },
 
   
