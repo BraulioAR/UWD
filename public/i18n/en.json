@@ -1,0 +1,91 @@
+{
+"header": {
+"aboutus": "About Us",
+"services": "Services",
+"portfolio": "Our Work",
+"contact": "Contact"
+},
+"hero": {
+"welcomemessage": "Innovation and quality for your home and business.",
+"description": "Excellence in every detail, protection in every installation."
+},
+"ourservices": {
+"title": "Our Services",
+"description": "We provide a wide variety of services, including windows and doors installation for both residential and commercial buildings.",
+"windows": "Window Installation",
+"windowsdesc": "We offer window installation services for homes and businesses, ensuring seamless integration with your current structure. We use high-energy-efficient windows that not only enhance the aesthetics of your property but also contribute to reducing energy costs.",
+"doors": "Door Installation",
+"doorsdesc": "Our door installation service is designed to provide security, style, and functionality. Whether you need sturdy entry doors or elegant interior doors, our team will ensure precise and professional installation.",
+"other": "Other Services",
+"otherdesc": "In addition to window and door installation, Universal Windows and Doors offer a full range of additional services to meet all your building and renovation needs:",
+"otherdesc2": "In addition to window and door installation, Universal Windows and Doors offer a full range of additional services to meet all your building and renovation needs<br /><br /><ul class=\"list-disc\"><li>Hurricane Shutters: Reliable storm and hurricane protection.</li><li>First Construction Cleaning: Detailed cleaning services to ensure your new construction is ready for occupancy.</li><li>Water Proofing: Professional solutions for waterproofing structures, ensuring durability and water resistance.</li><li>Concrete: Concrete work services for various applications, including pavements and structures.</li><li>Interior Repairs: Interior repairs and renovations to improve the functionality and aesthetics of your space.</li></ul>",
+"installationdesc": "Our team of specialists has installed thousands of windows and doors in homes and businesses across Florida and delivered the top services to our customers.<br /><br />Our windows and doors feature materials and structural specializations to reduce energy waste and give your building a beautiful look and great thermal performance boost.",
+"appointmentbutton": "Schedule an Appointment",
+"quotebutton": "Get a Quote",
+"w&d":"WINDOWS & DOORS INSTALLATIONS",
+"other2":"OTHER SERVICES"
+},
+
+"aboutus": {
+"title": "About Us",
+"desc": "At Universal Windows and Doors we take pride in our values.<br />- service, integrity, excellence, customer satisfaction, innovation, and safety.",
+"learnbutton": "Learn More",
+"whoweare": "Who We Are",
+"whowearedesc": "Universal Windows and Doors is a leading window and door installation company in Miami, dedicated to providing customized solutions for both homes and businesses. With years of experience in the industry, our team of experts is committed to delivering high-quality products and exceptional services.",
+"ourapproach": "Our Approach",
+"ourapproachdesc": "Our approach is based on attention to detail and customer satisfaction. We work closely with each client to understand their specific needs and deliver tailor-made solutions that exceed their expectations.",
+"howwehelp": "How We Help",
+"howwehelpdesc": "From impact window and door installation to hurricane protection, we offer a wide range of services designed to enhance the safety, energy efficiency, and aesthetics of your property. We use high-quality materials and advanced techniques to ensure lasting results.",
+"customersuccess": "Customer Success",
+"customersuccessdesc": "Customer satisfaction is at the core of our business. We take pride in having helped numerous clients protect and beautify their homes and businesses. Their testimonials and repeat praises are a testament to our commitment to excellence."
+},
+
+"contactus":{
+    "title":"Get in touch with us",
+ "name": "Name<br /> <input required placeholder=\"John Doe\" type=\"text\" name=\"name\" class=\"border rounded-[0.5rem] pt-[0.5rem] pb-[0.5rem] pl-[0.75rem] pr-[0.75rem] w-full focus:outline-none focus:shadow-sm focus:transition-border-03s focus:transition-shadow-03s\" /> </label>",
+    
+    "subject":"Subject <br /> <input required placeholder=\"Quote\" type=\"text\" name=\"subject\" class=\"border rounded-[0.5rem] pt-[0.5rem] pb-[0.5rem] pl-[0.75rem] pr-[0.75rem] w-full focus:outline-none focus:shadow-sm focus:transition-border-03s focus:transition-shadow-03s\" /> </label>",
+ 
+    "message":"Messsage <br /> <textarea required  name=\"message\" class=\"border rounded-[0.5rem] pt-[0.5rem] pb-[0.5rem] pl-[0.75rem] pr-[0.75rem] w-full focus:outline-none focus:shadow-sm focus:transition-border-03s focus:transition-shadow-03s\">",
+    "sendbutton":"Send"
+  },
+
+  
+  "qualities": {
+    "experience": "Experience",
+    "experiencedesc": "Years of experience in the sector endorse us.",
+    "professionalism": "Professionalism",
+    "professionalismdesc": "A team of experts committed to excellence.",
+    "quality": "Quality",
+    "qualitydesc": "Use of high-quality materials and techniques.",
+    "customerservice": "Customer Service",
+    "customerservicedesc": "Focus on customer satisfaction and needs.",
+    "security": "Security",
+    "securitydesc": "Solutions designed to protect against hurricanes and other elements."
+  },
+
+  "mvv": {
+    "mission": "Mission",
+    "missiondesc": "Our mission is to provide exceptional service that ensures our clients' satisfaction through the high quality of our window and door installations. We are committed to exceeding our clients' expectations with a professional approach and meticulous attention to detail.",
+    "vision": "Vision",
+    "visiondesc": "Our vision is to be leaders in the window and door installation industry in Miami, recognized for our innovation, service excellence, and commitment to the safety and durability of our products. We aspire to build lasting relationships with our clients based on trust and continuous satisfaction.",
+    "values": "Values",
+    "valuesdesc": "<ul><li>Quality: We are committed to offering the highest quality products and services.</li><li>Integrity: We act with honesty and transparency in all our interactions.</li><li>Customer Satisfaction: Our clients' satisfaction is our top priority.</li><li>Innovation: We adopt the latest technologies and practices to continually improve our services.</li><li>Safety: We ensure our products and services meet the highest safety standards.</li></ul>"
+  },
+
+
+"footer": {
+"title": "Get a quote with us today",
+"contactus": "Contact Us",
+"uwddesc": "UWD connects with you through social media.",
+"findusat": "Visit us at:",
+"services": "Services",
+"FAQs": "FAQs"
+}
+
+
+
+
+
+
+}

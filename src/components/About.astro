@@ -1,0 +1,128 @@
+---
+import MVV from "../components/MVV.astro";
+---
+
+<section id="about">
+  <div class="mx-auto max-w-[90rem] w-11/12">
+    <div
+      class="flex flex-col lg:flex-row lg:justify-between lg:gap-y-0 gap-y-10 pb-12"
+    >
+      <div class="flex flex-col gap-y-4">
+        <h1
+          class="font-bold text-[3.125rem] leading-[4.75rem] lg:text-start text-center"
+          data-i18n="aboutus.title"
+        >
+          About Us
+        </h1>
+        <h2
+          class="font-normal text-xl leading-8 lg:text-start text-center"
+          data-i18n="aboutus.desc"
+          data-i18n-html
+        >
+          At Universal Windows and Doors we take pride in our values. <br />
+          - service, integrity and excellence.
+        </h2>
+      </div>
+      <div class="flex justify-center items-center">
+        <button
+          id="toggleMvvButton"
+          class="bg-[#F4F6F6] text-[1.125rem] px-4 shadow-xl shadow-gray-500 hover:scale-105 animate-wiggle animate-infinite animate-duration-1000 animate-ease-in hover:animate-none"
+        >
+          <a href="javascript:void(0);" data-i18n="aboutus.learnbutton"
+            >Learn More</a
+          ></button
+        >
+      </div>
+    </div>
+  </div>
+  <MVV />
+  <div class="mx-auto max-w-[90rem] w-11/12">
+    <div id="aboutus" class="flex flex-col lg:flex-row gap-x-16 pt-10">
+      <div
+        class="grid grid-rows-2 grid-flow-col items-stretch lg:gap-y-10 gap-y-2 gap-x-5"
+      >
+        <div class="flex flex-col gap-1">
+          <h1 class="font-bold text-3xl">1.</h1>
+          <h2 data-i18n="aboutus.whoweare" class="font-bold text-2xl">
+            Who We are
+          </h2>
+          <h3
+            data-i18n="aboutus.whowearedesc"
+            class="font-normal text-[1rem] leading-6 text-justify"
+          >
+            We offer a hassle-free experience in window, door, and related
+            services installation.
+          </h3>
+        </div>
+        <div class="flex flex-col gap-1">
+          <h1 class="font-bold text-3xl">3.</h1>
+          <h2 data-i18n="aboutus.howwehelp" class="font-bold text-2xl">
+            How We Help
+          </h2>
+          <h3
+            data-i18n="aboutus.howwehelpdesc"
+            class="font-normal text-[1rem] leading-6 text-justify"
+          >
+            Enhance your building's comfort and aesthetics with our
+            installations.
+          </h3>
+        </div>
+        <div class="flex flex-col gap-1">
+          <h1 class="font-bold text-3xl">2.</h1>
+          <h2 data-i18n="aboutus.ourapproach" class="font-bold text-2xl">
+            Our Approach
+          </h2>
+          <h3
+            data-i18n="aboutus.ourapproachdesc"
+            class="font-normal text-[1rem] leading-6 text-justify"
+          >
+            We prioritize quality craftsmanship and personalized service.
+          </h3>
+        </div>
+        <div class="flex flex-col gap-1">
+          <h1 class="font-bold text-3xl">4.</h1>
+          <h2 data-i18n="aboutus.customersuccess" class="font-bold text-2xl">
+            Customer Success
+          </h2>
+          <h3
+            data-i18n="aboutus.customersuccessdesc"
+            class="font-normal text-[1rem] leading-6 text-justify"
+          >
+            Transform your space with our professional services.
+          </h3>
+        </div>
+      </div>
+
+      <div class="grid grid-rows-4 grid-flow-col gap-4 pt-8">
+        <img
+          class="object-cover w-60 h-40 row-span-1 rounded-full"
+          src="ab4.jpg"
+          alt="Our work 1"
+        />
+        <img
+          class="object-cover w-80 h-80 row-span-3 rounded-full"
+          src="perryhotel/ab2.jpg"
+          alt="Our work 2"
+        />
+        <img
+          class="object-cover w-80 h-80 row-span-3 rounded-full"
+          src="ab3.jpg"
+          alt="Our work 3"
+        />
+        <img
+          class="object-cover w-60 h-40 row-span-1 rounded-full mt-[-12rem]"
+          src="lexus/lexus3.jpg"
+          alt="Our work 3"
+        />
+      </div>
+    </div>
+  </div>
+</section>
+<script>
+  document
+    .getElementById("toggleMvvButton")
+    .addEventListener("click", function () {
+      document.getElementById("mvvElement").classList.toggle("expanded");
+      document.getElementById("mvvInfo").classList.toggle("hidden");
+    });
+</script>

@@ -1,0 +1,56 @@
+<section
+  id="contact"
+  class="bg-gradient-to-b from-white via-gray-200 to-[#03588370] h-screen flex items-center justify-center"
+>
+  <div class="mx-auto max-w-7xl w-11/12">
+    <div class="flex flex-col h-full gap-12">
+      <div class="flex content-center justify-center">
+        <h1
+          data-i18n="contactus.title"
+          class="text-center text-[3.5rem] text-blue-950"
+        >
+          Get in touch with us
+        </h1>
+      </div>
+      <div class="flex flex-col items-center lg:mt-8 gap-[2.5rem]">
+        <form
+          name="contactus"
+          action="../pages/success"
+          method="POST"
+          data-netlify="true"
+        >
+          <input required type="hidden" name="form-name" value="contactus" />
+          <div class="flex flex-row gap-[1.25rem]">
+            <div>
+              <label data-i18n="contactus.name" data-i18n-html> </label>
+            </div>
+            <div>
+              <label>
+                Email<br /><input
+                  required
+                  placeholder="johndoe@domain.com"
+                  type="email"
+                  name="email"
+                  class="border rounded-[0.5rem] pt-[0.5rem] pb-[0.5rem] pl-[0.75rem] pr-[0.75rem] w-full focus:outline-none focus:shadow-sm focus:transition-border-03s focus:transition-shadow-03s"
+                />
+              </label>
+            </div>
+            <div>
+              <label data-i18n="contactus.subject" data-i18n-html> </label>
+            </div>
+          </div>
+          <div>
+            <label data-i18n="contactus.message" data-i18n-html> </label>
+          </div>
+          <div class="flex justify-end px-[2rem] py-[1rem] items-end">
+            <button
+              data-i18n="contactus.sendbutton"
+              class="border px-[2rem] py-[0.5rem] bg-[#035883] text-white hover:text-[#035883] hover:bg-white transition-color-03s"
+              type="submit">Send</button
+            >
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+</section>

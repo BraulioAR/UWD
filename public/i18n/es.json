@@ -1,0 +1,92 @@
+{
+  "header": {
+    "aboutus": "Nosotros",
+    "services": "Servicios",
+    "portfolio": "Trabajo",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "welcomemessage": "Innovación y calidad para tu hogar y negocio.",
+    "description": "Excelencia en cada detalle, protección en cada instalación."
+  },
+  "ourservices": {
+    "title": "Nuestros Servicios",
+    "description": "Proveemos una amplia variedad de servicios, incluyendo la instalación de ventanas y puertas para edificios residenciales y comerciales.",
+    "windows": "Instalación de Ventanas",
+    "windowsdesc":"Ofrecemos servicios de instalación de ventanas para hogares y comercios, asegurando una integración perfecta con su estructura actual. Utilizamos ventanas de alta eficiencia energética que no solo mejoran la estética de su propiedad, sino que también contribuyen a la reducción de costos energéticos.",
+    "doors": "Instalación de Puertas",
+    "doorsdesc":"Nuestro servicio de instalación de puertas está diseñado para proporcionar seguridad, estilo y funcionalidad. Ya sea que necesite puertas de entrada robustas o puertas interiores elegantes, nuestro equipo garantizará una instalación precisa y profesional.",
+    "other":"Otros Servicios",
+    "otherdesc":"Además de la instalación de ventanas y puertas, Universal Windows and Doors ofrece una gama completa de servicios adicionales para satisfacer todas sus necesidades de construcción y renovación.",
+    "otherdesc2": "Además de la instalación de ventanas y puertas, Universal Windows and Doors ofrece una gama completa de servicios adicionales para satisfacer todas sus necesidades de construcción y renovación<br /><br /><ul class=\"list-disc\"><li>Hurricane Shutters: Protección confiable contra tormentas y huracanes.</li><li>Primera Limpieza en Nuevas Construcciones: Servicios de limpieza detallada para asegurar que su nueva construcción esté lista para ser habitada.</li><li>Water Proofing: Soluciones profesionales para la impermeabilización de estructuras, garantizando la durabilidad y resistencia al agua.</li><li>Concreto: Servicios de trabajo en concreto para diversas aplicaciones, incluyendo pavimentos y estructuras.</li><li>Reparaciones en Interiores: Reparaciones y renovaciones interiores para mejorar la funcionalidad y estética de su espacio.</li></ul>",
+    "installationdesc": "Nuestro equipo de especialistas ha instalado miles de ventanas y puertas en hogares y negocios en toda Florida, y ha brindado los mejores servicios a nuestros clientes.<br /><br />Nuestras ventanas y puertas cuentan con materiales y especializaciones estructurales que reducen el desperdicio de energía y le dan a su edificio una apariencia hermosa y un gran aumento en el rendimiento térmico.",
+    "appointmentbutton":"Agendar una cita",
+    "quotebutton":"Obtener una cotización",
+    "w&d":"INSTALACIÓN DE PUERTAS & VENTANAS",
+    "other2":"OTROS SERVICIOS"
+  },
+
+  "aboutus": {
+    "title": "Sobre Nosotros",
+    "desc": "En Universal Windows and Doors nos enorgullecemos de nuestros valores.<br />- calidad, integridad, satisfacción del cliente, innovación y seguridad.",
+    "learnbutton":"Ver más",
+    "whoweare": "¿Quiénes Somos?",
+    "whowearedesc": "Universal Windows and Doors es una empresa líder en la instalación de ventanas y puertas en Miami, dedicada a proporcionar soluciones personalizadas tanto para hogares como para comercios. Con años de experiencia en la industria, nuestro equipo de expertos se compromete a ofrecer productos de alta calidad y servicios excepcionales.",
+    "ourapproach": "Nuestro Enfoque",
+    "ourapproachdesc": "Nuestro enfoque se basa en la atención al detalle y la satisfacción del cliente. Trabajamos estrechamente con cada cliente para entender sus necesidades específicas y ofrecer soluciones a medida que superen sus expectativas.",
+    "howwehelp": "¿Cómo Ayudamos?",
+    "howwehelpdesc":"Desde la instalación de ventanas y puertas de impacto hasta la protección contra huracanes, ofrecemos una amplia gama de servicios diseñados para mejorar la seguridad, la eficiencia energética y la estética de su propiedad. Utilizamos materiales de alta calidad y técnicas avanzadas para garantizar resultados duraderos.",
+    "customersuccess":"Satisfaccion del Cliente",
+    "customersuccessdesc":"La satisfacción de nuestros clientes es el núcleo de nuestra empresa. Nos enorgullece haber ayudado a numerosos clientes a proteger y embellecer sus hogares y negocios. Sus testimonios y repetidos elogios son un testimonio de nuestro compromiso con la excelencia."
+  },
+
+  "ourwork":{
+    "title":"Nuestro Trabajo",
+    "desc":"Presentamos algunos de nuestros últimos proyectos. Explora más sobre nosotros."
+  },
+
+  "contactus":{
+    "title":"Ponte en contacto con nosotros",
+ "name": "Nombre<br /> <input required placeholder=\"John Doe\" type=\"text\" name=\"name\" class=\"border rounded-[0.5rem] pt-[0.5rem] pb-[0.5rem] pl-[0.75rem] pr-[0.75rem] w-full focus:outline-none focus:shadow-sm focus:transition-border-03s focus:transition-shadow-03s\" /> </label>",
+    
+    "subject":"Asunto <br /> <input required placeholder=\"Cotización\" type=\"text\" name=\"subject\" class=\"border rounded-[0.5rem] pt-[0.5rem] pb-[0.5rem] pl-[0.75rem] pr-[0.75rem] w-full focus:outline-none focus:shadow-sm focus:transition-border-03s focus:transition-shadow-03s\" /> </label>",
+ 
+    "message":"Mensaje <br /> <textarea required  name=\"message\" class=\"border rounded-[0.5rem] pt-[0.5rem] pb-[0.5rem] pl-[0.75rem] pr-[0.75rem] w-full focus:outline-none focus:shadow-sm focus:transition-border-03s focus:transition-shadow-03s\">",
+    "sendbutton":"Enviar",
+    "success":" Mensaje enviado con éxito",
+    "sucessdesc":" Estaremos en contacto pronto. ¡Gracias por ponerte en contacto!",
+    "backbutton":"Volver al Inicio"
+  },
+
+  "qualities":{
+    "experience":"Experiencia",
+    "experiencedesc":"Años de experiencia en el sector nos avalan.",
+    "professionalism":"Profesionalismo",
+    "professionalismdesc":"Un equipo de expertos comprometidos con la excelencia.",
+    "quality":"Calidad",
+    "qualitydesc":"Uso de materiales y técnicas de alta calidad.",
+    "customerservice":"Atención al Cliente",
+    "customerservicedesc":"Enfoque en la satisfacción y las necesidades del cliente.",
+    "security":"Seguridad",
+    "securitydesc":"Soluciones diseñadas para proteger contra huracanes y otros elementos."
+  },
+
+  "mvv":{
+    "mission":"Misión",
+    "missiondesc":"Nuestra misión es brindar un servicio excepcional que garantice la satisfacción de nuestros clientes a través de la alta calidad de nuestro trabajo en la instalación de ventanas y puertas. Nos comprometemos a superar las expectativas de nuestros clientes mediante un enfoque profesional y una atención meticulosa a los detalles.",
+    "vision":"Visión",
+    "visiondesc":"Nuestra visión es ser líderes en la industria de instalación de ventanas y puertas en Miami, reconocidos por nuestra innovación, excelencia en el servicio y compromiso con la seguridad y la durabilidad de nuestros productos. Aspiramos a construir relaciones duraderas con nuestros clientes basadas en la confianza y la satisfacción continua.",
+    "values":"Valores",
+    "valuesdesc":"<ul><li>Calidad: Nos comprometemos a ofrecer productos y servicios de la más alta calidad.</li><li>Integridad: Actuamos con honestidad y transparencia en todas nuestras interacciones.</li><li>Satisfacción del Cliente: La satisfacción de nuestros clientes es nuestra principal prioridad.</li><li>Innovación: Adoptamos las últimas tecnologías y prácticas para mejorar constantemente nuestros servicios.</li><li>Seguridad: Nos aseguramos de que nuestros productos y servicios cumplan con los más altos estándares de seguridad.</li></ul>"
+  },
+
+  "footer":{
+    "title":"Obtén una cotización con nosotros hoy",
+    "contactus":"Contáctanos",
+    "uwddesc":"UWD conecta contigo a través de las redes.",
+    "findusat":"Visítanos en:",
+    "services": "Servicios",
+    "FAQs": "Preguntas Frecuentes"
+
+}
+}
