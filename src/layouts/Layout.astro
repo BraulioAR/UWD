@@ -12,7 +12,7 @@ const { title } = Astro.props;
     <meta charset="UTF-8" />
     <meta name="description" content="Universal Windows and Doors" />
     <meta name="viewport" content="width=device-width" />
-
+    <script src="/i18n/languages.js" defer></script>
     <link
       rel="stylesheet"
       href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap"
@@ -36,7 +36,7 @@ const { title } = Astro.props;
   </head>
   <body>
     <slot />
-    <script src="./i18n/languages.js" defer></script>
+
     <script src="../../src/intersectionObserver.js"></script>
     <script src="../../src/scrolling.js"></script>
   </body>
