@@ -44,9 +44,7 @@
 "contactus":{
     "title":"Get in touch with us",
  "name": "Name",
-    
     "subject":"Subject",
- 
     "message":"Messsage",
     "sendbutton":"Send",
     "success":"Your message was sent successfully",

@@ -49,9 +49,7 @@
   "contactus":{
     "title":"Ponte en contacto con nosotros",
  "name": "Nombre",
-    
     "subject":"Asunto",
- 
     "message":"Mensaje",
     "sendbutton":"Enviar",
     "success":" Mensaje enviado con éxito",
