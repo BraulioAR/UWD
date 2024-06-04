@@ -48,11 +48,11 @@
 
   "contactus":{
     "title":"Ponte en contacto con nosotros",
- "name": "Nombre<br /> <input required placeholder=\"John Doe\" type=\"text\" name=\"name\" class=\"border rounded-[0.5rem] pt-[0.5rem] pb-[0.5rem] pl-[0.75rem] pr-[0.75rem] w-full focus:outline-none focus:shadow-sm focus:transition-border-03s focus:transition-shadow-03s\" /> </label>",
+ "name": "Nombre",
     
-    "subject":"Asunto <br /> <input required placeholder=\"Cotización\" type=\"text\" name=\"subject\" class=\"border rounded-[0.5rem] pt-[0.5rem] pb-[0.5rem] pl-[0.75rem] pr-[0.75rem] w-full focus:outline-none focus:shadow-sm focus:transition-border-03s focus:transition-shadow-03s\" /> </label>",
+    "subject":"Asunto",
  
-    "message":"Mensaje <br /> <textarea required  name=\"message\" class=\"border rounded-[0.5rem] pt-[0.5rem] pb-[0.5rem] pl-[0.75rem] pr-[0.75rem] w-full focus:outline-none focus:shadow-sm focus:transition-border-03s focus:transition-shadow-03s\">",
+    "message":"Mensaje",
     "sendbutton":"Enviar",
     "success":" Mensaje enviado con éxito",
     "sucessdesc":" Estaremos en contacto pronto. ¡Gracias por ponerte en contacto!",
