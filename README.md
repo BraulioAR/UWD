@@ -1,0 +1,6 @@
+
+Universal Windows and Doors, a small business in Florida, specializes in window and door installations, along with a comprehensive array of additional services to cater to all building and renovation needs. The client desired a modern, professional website that would effectively highlight their expertise in installations and renovations, aiming to attract potential clients seeking these services.
+
+I independently developed the website for UWD from the ground up, utilizing Astro, Tailwind CSS, HTML, CSS, and Node.js. My responsibilities included crafting the layout, ensuring responsive design across various devices, incorporating animations for an engaging user experience, and optimizing the website for search engines (SEO). Additionally, I integrated contact forms and social media links to boost user interaction and streamline communication with the company.
+
+The final website not only met but exceeded the client's expectations. Its contemporary design, intuitive interface, and informative content established Universal Windows and Doors Multiservices as a credible entity in their industry. The site garnered positive feedback from clients and visitors alike, leading to increased traffic and inquiries. Ultimately, the project significantly enhanced the company's online presence and attracted new business opportunities.
